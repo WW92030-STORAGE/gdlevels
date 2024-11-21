@@ -1,2 +1,2 @@
 # gdlevels
-Geometry Dash Levels (Exported using LVLSHARE)
+Geometry Dash Levels (Exported using [LVLSHARE](https://github.com/Spu7Nix/lvlshare))
